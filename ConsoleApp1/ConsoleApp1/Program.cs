@@ -248,6 +248,7 @@ namespace ConsoleApp1
                 tarea.Wait();
                 Console.WriteLine("Programa finalizado.");
                 await OperacionLarga();
+                //Prueba Commit
             }            
         }
     }
