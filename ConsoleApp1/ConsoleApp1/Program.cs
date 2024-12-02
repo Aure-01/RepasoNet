@@ -151,11 +151,11 @@ namespace ConsoleApp1
         //    //Prueba 12 de Consola
         //    //DependencyInversionPrinciple.LectorDeArchivo lectorDeArchivo = new DependencyInversionPrinciple.LectorDeArchivo();
         //    DependencyInversionPrinciple.ProcesadorDeDatos procesadorDeDatos = new DependencyInversionPrinciple.ProcesadorDeDatos();
-        //    procesadorDeDatos.Procesar("C:\\Proyectos\\Pruebas\\prueba.txt"); // Proporcionar la ruta del archivo
+        //    procesadorDeDatos.Procesar("C:\\Proyectos\\RepasoNet\\prueba.txt"); // Proporcionar la ruta del archivo
 
         //    DependencyInversionPrinciple.ILector1 lector1 = new DependencyInversionPrinciple.LectorDeArchivo1();
         //    DependencyInversionPrinciple.ProcesadorDeDatos1 procesadorDeDatos1 = new DependencyInversionPrinciple.ProcesadorDeDatos1(lector1);
-        //    procesadorDeDatos1.Procesar("C:\\Proyectos\\Pruebas\\prueba2.txt"); // Proporcionar la ruta del archivo
+        //    procesadorDeDatos1.Procesar("C:\\Proyectos\\RepasoNet\\prueba2.txt"); // Proporcionar la ruta del archivo
         //    //Prueba 13 de Consola
         //    Console.WriteLine(Fibonacci.Calcular(10)); // 55
         //    //Prueba 14 de Consola
@@ -166,7 +166,7 @@ namespace ConsoleApp1
         //    // Esperar la finalización de la tarea
         //    tarea.Wait();
         //    Console.WriteLine("Programa finalizado.");
-            
+
         //}
         internal class Program1
         {
@@ -232,11 +232,11 @@ namespace ConsoleApp1
                 //Prueba 12 de Consola
                 //DependencyInversionPrinciple.LectorDeArchivo lectorDeArchivo = new DependencyInversionPrinciple.LectorDeArchivo();
                 DependencyInversionPrinciple.ProcesadorDeDatos procesadorDeDatos = new DependencyInversionPrinciple.ProcesadorDeDatos();
-                procesadorDeDatos.Procesar("C:\\Proyectos\\Pruebas\\prueba.txt"); // Proporcionar la ruta del archivo
+                procesadorDeDatos.Procesar("C:\\Proyectos\\RepasoNet\\prueba.txt"); // Proporcionar la ruta del archivo
 
                 DependencyInversionPrinciple.ILector1 lector1 = new DependencyInversionPrinciple.LectorDeArchivo1();
                 DependencyInversionPrinciple.ProcesadorDeDatos1 procesadorDeDatos1 = new DependencyInversionPrinciple.ProcesadorDeDatos1(lector1);
-                procesadorDeDatos1.Procesar("C:\\Proyectos\\Pruebas\\prueba2.txt"); // Proporcionar la ruta del archivo
+                procesadorDeDatos1.Procesar("C:\\Proyectos\\RepasoNet\\prueba2.txt"); // Proporcionar la ruta del archivo
                 //Prueba 13 de Consola
                 Console.WriteLine(Fibonacci.Calcular(10)); // 55
                 //Prueba 14 de Consola
@@ -248,7 +248,7 @@ namespace ConsoleApp1
                 tarea.Wait();
                 Console.WriteLine("Programa finalizado.");
                 await OperacionLarga();
-                //Prueba Commit
+                //Prueba Commit 2
             }            
         }
     }

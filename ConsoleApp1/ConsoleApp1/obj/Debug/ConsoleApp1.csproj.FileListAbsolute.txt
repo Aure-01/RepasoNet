@@ -5,3 +5,10 @@ C:\Proyectos\Pruebas\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.Assemb
 C:\Proyectos\Pruebas\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
 C:\Proyectos\Pruebas\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 C:\Proyectos\Pruebas\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Proyectos\RepasoNet\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Proyectos\RepasoNet\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Proyectos\RepasoNet\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Proyectos\RepasoNet\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Proyectos\RepasoNet\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Proyectos\RepasoNet\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Proyectos\RepasoNet\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
